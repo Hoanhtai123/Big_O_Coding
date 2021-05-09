@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\CCLaptop.com\OneDrive\Desktop\GIT_UP\Big_O_Coding\Lecture 16 - Prim\Lecture16-Prim\Lecture16-Prim\Source.cpp(10,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\CCLaptop.com\OneDrive\Desktop\GIT_UP\Big_O_Coding\Lecture 16 - Prim\Lecture16-Prim\Lecture16-Prim\Source.cpp(43,21): warning C4018: '<': signed/unsigned mismatch
+  Lecture16-Prim.vcxproj -> C:\Users\CCLaptop.com\OneDrive\Desktop\GIT_UP\Big_O_Coding\Lecture 16 - Prim\Lecture16-Prim\Debug\Lecture16-Prim.exe
